@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33627.172
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "[Proiect][1052][Bica Marius Adrian]_Restaurant", "[Proiect][1052][Bica Marius Adrian]_Restaurant\[Proiect][1052][Bica Marius Adrian]_Restaurant.vcxproj", "{EABFD41C-923A-4A6D-A4A5-7DF8AF9EBEFF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EABFD41C-923A-4A6D-A4A5-7DF8AF9EBEFF}.Debug|x64.ActiveCfg = Debug|x64
+		{EABFD41C-923A-4A6D-A4A5-7DF8AF9EBEFF}.Debug|x64.Build.0 = Debug|x64
+		{EABFD41C-923A-4A6D-A4A5-7DF8AF9EBEFF}.Debug|x86.ActiveCfg = Debug|Win32
+		{EABFD41C-923A-4A6D-A4A5-7DF8AF9EBEFF}.Debug|x86.Build.0 = Debug|Win32
+		{EABFD41C-923A-4A6D-A4A5-7DF8AF9EBEFF}.Release|x64.ActiveCfg = Release|x64
+		{EABFD41C-923A-4A6D-A4A5-7DF8AF9EBEFF}.Release|x64.Build.0 = Release|x64
+		{EABFD41C-923A-4A6D-A4A5-7DF8AF9EBEFF}.Release|x86.ActiveCfg = Release|Win32
+		{EABFD41C-923A-4A6D-A4A5-7DF8AF9EBEFF}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4EF2355D-EB19-4B60-8C06-D41904DF1D3A}
+	EndGlobalSection
+EndGlobal

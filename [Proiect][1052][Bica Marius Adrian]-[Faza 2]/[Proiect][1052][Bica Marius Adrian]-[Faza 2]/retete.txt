@@ -1,0 +1,11 @@
+Pizza Margherita: rosii,5; branza,10; faina,100; oua,3; busuioc,10; parmezan,10
+Pizza Diavola: rosii,5; ardei,5; faina,100; oua,2; paprika,10; salam,10; cascaval,10; bacon,5  
+Pizza Carnivora: rosii,3; ardei,2; faina,100; oua,2; bacon,10; salam,10; pui,10; sunca,10
+Pizza Casei: rosii,5; ardei,5; faina,100; oua,2; bacon,10; salam,10; ciuperci,5; busuioc,5; masline,10; ceapa,5
+Pizza Capriciosa: rosii,3; ardei,2; faina,100; oua,2; sunca,10; cascaval,10; ciuperci,5; masline,10
+Pizza Quatro Formaggi: rosii,5; branza,15; faina,100; oua,2; busuioc,10; cascaval,15; parmezan,15
+Paste Carbonara: cascaval,15; branza,15; faina,150; oua,2; bacon,20
+Paste Amatriciana: cascaval,20; faina,150; oua,2; rosii,10; ceapa,2
+Paste Bolognese: rosii,5; faina,150; oua,2; ceapa,3; bacon,10; busuioc,5
+Paste Arrabiata: rosii,5; faina,150; oua,2; ceapa,2; parmezan,15; paprika,10; busuioc,3
+Paste Alfredo: rosii,5; faina,150; oua,2; ceapa,2; pui,20; busuioc,3
