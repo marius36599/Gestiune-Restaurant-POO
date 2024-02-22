@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\.Facultate\\anu II\\vs code\\Gestiune-Restaurant-POO\\[Proiect][1052][Bica Marius Adrian]_Restaurant\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EABFD41C-923A-4A6D-A4A5-7DF8AF9EBEFF}|[Proiect][1052][Bica Marius Adrian]_Restaurant\\[Proiect][1052][Bica Marius Adrian]_Restaurant.vcxproj|D:\\.Facultate\\anu II\\vs code\\Gestiune-Restaurant-POO\\[Proiect][1052][Bica Marius Adrian]_Restaurant\\[Proiect][1052][Bica Marius Adrian]_Restaurant\\[Proiect][1052][Bica Marius Adrian]_Restaurant.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EABFD41C-923A-4A6D-A4A5-7DF8AF9EBEFF}|[Proiect][1052][Bica Marius Adrian]_Restaurant\\[Proiect][1052][Bica Marius Adrian]_Restaurant.vcxproj|solutionrelative:[Proiect][1052][Bica Marius Adrian]_Restaurant\\[Proiect][1052][Bica Marius Adrian]_Restaurant.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "[Proiect][1052][Bica Marius Adrian]_Restaurant.cpp",
+              "DocumentMoniker": "D:\\.Facultate\\anu II\\vs code\\Gestiune-Restaurant-POO\\[Proiect][1052][Bica Marius Adrian]_Restaurant\\[Proiect][1052][Bica Marius Adrian]_Restaurant\\[Proiect][1052][Bica Marius Adrian]_Restaurant.cpp",
+              "RelativeDocumentMoniker": "[Proiect][1052][Bica Marius Adrian]_Restaurant\\[Proiect][1052][Bica Marius Adrian]_Restaurant.cpp",
+              "ToolTip": "D:\\.Facultate\\anu II\\vs code\\Gestiune-Restaurant-POO\\[Proiect][1052][Bica Marius Adrian]_Restaurant\\[Proiect][1052][Bica Marius Adrian]_Restaurant\\[Proiect][1052][Bica Marius Adrian]_Restaurant.cpp",
+              "RelativeToolTip": "[Proiect][1052][Bica Marius Adrian]_Restaurant\\[Proiect][1052][Bica Marius Adrian]_Restaurant.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAH8DAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-02-21T22:42:08.838Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

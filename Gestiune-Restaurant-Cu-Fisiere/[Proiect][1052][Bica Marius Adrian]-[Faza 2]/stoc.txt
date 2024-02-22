@@ -1,0 +1,17 @@
+salam,100
+ardei,100
+ciuperci,110
+cascaval,95
+faina,2500
+oua,200
+rosii,98
+masline,120
+bacon,150
+pui,200
+sunca,100
+ardei,150
+paprika,100
+branza,120
+busuioc,100
+ceapa,80
+parmezan,70
